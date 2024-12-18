@@ -1,0 +1,60 @@
+body{
+
+    background-color:#ffffff;
+
+
+
+
+}
+
+.comix{
+
+    background-color: #E7E2DA;
+    width: 45%;
+    height: 1200px;
+    margin:auto ;
+
+
+
+
+
+}
+
+.com1{
+
+    background-image: url("img/paper-head.PNG");
+    background-size: cover;
+    background-position: center;
+    width: 250px;
+    height: 100px;
+    background-repeat:no-repeat;
+
+
+
+
+
+}
+
+
+.com2{
+
+    background-image: url("img/paper-sub-head.PNG");
+    background-position: center;
+    width: 250px;
+    height: 100px;
+    background-repeat:no-repeat;
+
+
+
+}
+
+
+.tablee{
+
+    width: 100%;
+    height: 500px;
+
+
+
+
+}
